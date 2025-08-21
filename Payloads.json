@@ -975,7 +975,7 @@
         "TempCoeffISC": 0.0048,
         "Degradation": 0.004,
         "PanelCost": 185.0,
-        "ConnectorType": "MC4-Evo2A,
+        "ConnectorType": "MC4-Evo2A",
         "WarrantyYears": 25,
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6780/DM440-460M10RT-B54HBB-L-20250515-EN.pdf",
