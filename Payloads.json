@@ -40,7 +40,7 @@
       {
         "ID": "B234A7E036244928B3977F619AADDE76",
         "bDeprecated": false,
-        "MPN Series": "AEG HIGH EFFICIENCY SERIES",
+        "MPNSeries": "AEG HIGH EFFICIENCY SERIES",
         "MPN": "AS-M1082B-BH(RM10)-450",
         "RPN": "AEG-450W-Glass",
         "Manufacturer": "AEG",
@@ -2194,3 +2194,4 @@
     "EVChargers": []
   }
 }
+
