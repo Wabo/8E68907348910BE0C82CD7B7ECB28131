@@ -1,7 +1,6 @@
 {
   "Payloads": {
-    "SolarPanels":
-    [
+    "SolarPanels": [
       {
         "ID": "1AFB0121C8464A6CB4D729203BFAC1A0",
         "bDeprecated": false,
@@ -35,7 +34,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6510/AEG-455-FB-2.0mm-glas-glas.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6509/responsive-images/10200015___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "B234A7E036244928B3977F619AADDE76",
@@ -70,7 +71,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6510/AEG-455-FB-2.0mm-glas-glas.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6509/responsive-images/10200015___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "C9848C2DCF12426A82DF80F51EF25A6F",
@@ -105,7 +108,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6510/AEG-455-FB-2.0mm-glas-glas.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6509/responsive-images/10200015___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "E6810D81026148FA9CDDC0F6CC045D19",
@@ -140,7 +145,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6510/AEG-455-FB-2.0mm-glas-glas.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6509/responsive-images/10200015___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "ABD984E9DFAF40248420DD01D3E07B6B",
@@ -175,7 +182,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/2794/AEG+455w+N-type+Full+Black+Back+Contact",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/5292/responsive-images/10200016___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "F0132C4295CA4CABA85D27491E7818CD",
@@ -210,7 +219,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/2794/AEG+455w+N-type+Full+Black+Back+Contact",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/5292/responsive-images/10200016___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "255C2ADFA2E441FC8EFF646C988A1042",
@@ -245,7 +256,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/2794/AEG+455w+N-type+Full+Black+Back+Contact",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/5292/responsive-images/10200016___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "4D350B84F61F4F819B53CEB6945184DE",
@@ -280,7 +293,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6285/Aiko-465w-Full-Black-Glas-Glas.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/5851/responsive-images/10300005___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "B05F01B5C2904FCF9278285DA7F65557",
@@ -315,7 +330,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6285/Aiko-465w-Full-Black-Glas-Glas.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/5851/responsive-images/10300005___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "93459EA40AF649549281066F8DFF2FA0",
@@ -350,7 +367,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6285/Aiko-465w-Full-Black-Glas-Glas.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/5851/responsive-images/10300005___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "F7E9D5A222864B878771E36E6CBCF626",
@@ -385,7 +404,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6285/Aiko-465w-Full-Black-Glas-Glas.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/5851/responsive-images/10300005___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "97B197A844864087809D89AACCD5A000",
@@ -420,7 +441,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6285/Aiko-465w-Full-Black-Glas-Glas.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/5851/responsive-images/10300005___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "26F0202DFF37463BA51B200646251D87",
@@ -455,7 +478,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6285/Aiko-465w-Full-Black-Glas-Glas.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/5851/responsive-images/10300005___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "9FF9148D7B47498BB8CC2C37450A6175",
@@ -490,7 +515,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6285/Aiko-465w-Full-Black-Glas-Glas.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/5851/responsive-images/10300005___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "87145EB8F5394CA7855FAFF6C20EBFD7",
@@ -525,7 +552,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6943/AIKO-460-490-Full-Black-Glas-Glas-%2837pcs-pallet%29.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6942/responsive-images/10300005___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "E23A1805D32D46E2A868DFA88A4151BA",
@@ -560,7 +589,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6943/AIKO-460-490-Full-Black-Glas-Glas-%2837pcs-pallet%29.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6942/responsive-images/10300005___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "8A77F5544E2E406FA4BD1ABD35A42319",
@@ -595,7 +626,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6943/AIKO-460-490-Full-Black-Glas-Glas-%2837pcs-pallet%29.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6942/responsive-images/10300005___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "ABE40C9F093B42F59D8FA25C4B15FB32",
@@ -630,7 +663,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6943/AIKO-460-490-Full-Black-Glas-Glas-%2837pcs-pallet%29.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6942/responsive-images/10300005___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "1DBB4D4CF49746FE99E56584FC5DA694",
@@ -665,7 +700,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6943/AIKO-460-490-Full-Black-Glas-Glas-%2837pcs-pallet%29.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6942/responsive-images/10300005___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "B5339409AB6F4B87B59C0200C7057732",
@@ -700,7 +737,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6943/AIKO-460-490-Full-Black-Glas-Glas-%2837pcs-pallet%29.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6942/responsive-images/10300005___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "8810186DAD9A477C8075D36DEF7C1FC0",
@@ -735,7 +774,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6943/AIKO-460-490-Full-Black-Glas-Glas-%2837pcs-pallet%29.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6942/responsive-images/10300005___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "7C2E1A9F3D1E4E0AB8D2A18F71C2C5F1",
@@ -770,7 +811,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6913/DMEGC-500-FB-Glas-Glas-%282.0mm%29.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6912/responsive-images/10000041___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "3F71B4A88ACD426A901C7F8DF5F2CE4E",
@@ -805,7 +848,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6913/DMEGC-500-FB-Glas-Glas-%282.0mm%29.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6912/responsive-images/10000041___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "8B93F0C12DDA49E0B3C0CEB49AF7BE6C",
@@ -840,7 +885,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6913/DMEGC-500-FB-Glas-Glas-%282.0mm%29.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6912/responsive-images/10000041___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "5D6F2AEB9346415A9EFB1AF01CDE8B23",
@@ -875,7 +922,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6913/DMEGC-500-FB-Glas-Glas-%282.0mm%29.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6912/responsive-images/10000041___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "E9C3F21B648F4E3FBC19E48E1099E6DD",
@@ -910,7 +959,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6913/DMEGC-500-FB-Glas-Glas-%282.0mm%29.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6912/responsive-images/10000041___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "9B37A4F8E61C4B7BA92D1F8D70C5A1F2",
@@ -945,7 +996,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6780/DM440-460M10RT-B54HBB-L-20250515-EN.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/5380/responsive-images/10000024___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "A6C9D7E32F1040F8B98E1E60B6C9F3E7",
@@ -980,7 +1033,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6780/DM440-460M10RT-B54HBB-L-20250515-EN.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/5380/responsive-images/10000024___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "F01E3A89C4C14D0C89A7BC97E2D9A3F6",
@@ -1015,7 +1070,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6780/DM440-460M10RT-B54HBB-L-20250515-EN.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/5380/responsive-images/10000024___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "14DE9F3C6A2B49C285DB1B6F987E2E01",
@@ -1050,7 +1107,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6780/DM440-460M10RT-B54HBB-L-20250515-EN.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/5380/responsive-images/10000024___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "BB5C7DA1E3FA4AC0B7AEB62D49F17344",
@@ -1085,7 +1144,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6780/DM440-460M10RT-B54HBB-L-20250515-EN.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/5380/responsive-images/10000024___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "7C9F31E4A12B47C3BDA1A9D9C65F1A22",
@@ -1120,7 +1181,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7250/DMEGC-460-BW-Glas-Glas-2.0mm-New-Size.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7249/10000039.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "3B71D2F8E9A34BEF8D22B7D91C4E8A61",
@@ -1155,7 +1218,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7250/DMEGC-460-BW-Glas-Glas-2.0mm-New-Size.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7249/10000039.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "F2D8C5A9E73C452B8B12EAD13C68B3F2",
@@ -1190,7 +1255,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7250/DMEGC-460-BW-Glas-Glas-2.0mm-New-Size.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7249/10000039.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "C6B9E1D34F2E41A0B9D19D63E58D2AF4",
@@ -1225,7 +1292,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7250/DMEGC-460-BW-Glas-Glas-2.0mm-New-Size.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7249/10000039.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "1E8C34B9A7F7417E8AFB1A9E8C76B1D2",
@@ -1260,12 +1329,10 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7250/DMEGC-460-BW-Glas-Glas-2.0mm-New-Size.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7249/10000039.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
-
-
-
-
       {
         "ID": "A4E1F5B8D93F4C0A8D27E6A91C2F4D3E",
         "bDeprecated": false,
@@ -1299,7 +1366,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7252/DMEGC-500-Transparant-Glas-Glas.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7251/responsive-images/10000042___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "F81C6D54BE4D42E2B7A922E8891ABF41",
@@ -1334,7 +1403,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7252/DMEGC-500-Transparant-Glas-Glas.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7251/responsive-images/10000042___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "BC9187E245E24A76B8AD8A30C3F7E2C6",
@@ -1369,7 +1440,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7252/DMEGC-500-Transparant-Glas-Glas.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7251/responsive-images/10000042___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "91EB8F66DA8F46378C17C52EB9D93F7D",
@@ -1404,7 +1477,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7252/DMEGC-500-Transparant-Glas-Glas.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7251/responsive-images/10000042___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "5F7A1D33B42F44599BE8C9F2D1AE1CC9",
@@ -1439,7 +1514,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7252/DMEGC-500-Transparant-Glas-Glas.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7251/responsive-images/10000042___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "3A1F2E4C9B7D4F0B8D123C45F6789AB0",
@@ -1474,7 +1551,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6513/DAS-445-455wp-Full-Black.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6512/responsive-images/10100020___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "5B9E1A7D6C2349A5B0D4823F1C67AB9E",
@@ -1509,7 +1588,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6513/DAS-445-455wp-Full-Black.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6512/responsive-images/10100020___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "C8F12E7B4DA94B6F87D9C3210AB54F63",
@@ -1544,7 +1625,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6513/DAS-445-455wp-Full-Black.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6512/responsive-images/10100020___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "2D76C3E1F8A54659B1E0C89FD2347B51",
@@ -1579,7 +1662,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6513/DAS-445-455wp-Full-Black.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6512/responsive-images/10100020___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "7B59A4C8E3D64F2F90A1D25B4EFC6A3E",
@@ -1614,7 +1699,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6513/DAS-445-455wp-Full-Black.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6512/responsive-images/10100020___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "AD341F9075BE45F39B68D2A3E7F91B52",
@@ -1649,7 +1736,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6513/DAS-445-455wp-Full-Black.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6512/responsive-images/10100020___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "91B8E5F2D4764F1782C43B9D65A1C0F7",
@@ -1684,11 +1773,10 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6513/DAS-445-455wp-Full-Black.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/6512/responsive-images/10100020___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
-
-
-
       {
         "ID": "3F1C2E7B9A6D4B8F91E0C456A23B7D80",
         "bDeprecated": false,
@@ -1722,7 +1810,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7264/DAS-DH96NE-EN-435-460-Black-ANTI-GLARE.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7263/responsive-images/10100022___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "1B7E49D2A6C3485F83D90E21BC7A45F2",
@@ -1757,7 +1847,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7264/DAS-DH96NE-EN-435-460-Black-ANTI-GLARE.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7263/responsive-images/10100022___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "6F8A21E5D9C3479AB01E4C56F3B82A9D",
@@ -1792,7 +1884,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7264/DAS-DH96NE-EN-435-460-Black-ANTI-GLARE.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7263/responsive-images/10100022___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "E2C91FD34AB74A8F9D3E1B52C87065A1",
@@ -1827,7 +1921,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7264/DAS-DH96NE-EN-435-460-Black-ANTI-GLARE.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7263/responsive-images/10100022___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "A9F41E8D23C64B59B87D5F0C9E42AB37",
@@ -1862,7 +1958,9 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7264/DAS-DH96NE-EN-435-460-Black-ANTI-GLARE.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7263/responsive-images/10100022___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       },
       {
         "ID": "7D2F1E93B5C147F9A8D0E2B3C95648A0",
@@ -1897,301 +1995,573 @@
         "PerformanceWarrantyYears": 30,
         "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7264/DAS-DH96NE-EN-435-460-Black-ANTI-GLARE.pdf",
         "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/7263/responsive-images/10100022___media_library_original_972_973.jpg",
-        "Tags": ["Unlit.Category.Interior.Sofas.Sofa"]
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ]
       }
     ],
-    "Inverters":
-    [
-        {
-          "ID": "F41B7E0D9C1245A3B8F60D1C47A9E832",
-          "bDeprecated": false,
-          "MPNSeries": "S6-GR1P",
-          "MPN": "S6-GR1P2.5K",
-          "RPN": "S6-GR1P2.5K",
-          "Manufacturer": "Solis",
-          "Length": 310,
-          "Width": 543,
-          "Height": 160,
-          "Weight": 11.0,
-          "MaxPVPower": 3750,
-          "MaxInputVoltage": 550,
-          "RatedInputVoltage": 250,
-          "MPPTStartupVoltage": 60,
-          "MPPTMaxVoltage": 450,
-          "MaxInputCurrentPerMPPT": 14,
-          "MaxShortCircuitCurrentPerMPPT": 22,
-          "MPPTCount": 2,
-          "InputsPerMPPT": 2,
-          "NominalACPower": 2500,
-          "MaxACPower": 2800,
-          "NominalACVoltage": 230,
-          "MaxOutputCurrent": 13.3,
-          "Fase": 1,
-          "InverterType": "String",
-          "EUEfficiency": 96.5,
-          "bAFCI": true,
-          "IngressProtection": 66,
-          "InverterCost" : 1000.0,
-          "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/2308/Datasheet_S6-GR1P%282%2C5-6%29K_NED_V2_a61e1cd5-5e73-43dd-8935-cc9364143b37.pdf",
-          "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/4824/responsive-images/0009623_solis-s6-36k-single-phase-2-mppt-dc___media_library_original_900_900.jpeg",
-          "Tags": ["Unlit.Category.Interior.Sofas.Sofa"],
-          "PanelsPerInverter": 1,
-          "MinOptimizersRequired": 0,
-          "MaxOptimizersPerString": 0,
-          "MaxStringsSupported": 0,
-          "bBatteryReady": false,
-          "MaxBatteryPower": 0,
-          "MaxBatteryCapacity": 0
-        },
-        {
-          "ID": "6E0B2143D58E4F55A87D37B2198A56F2",
-          "bDeprecated": false,
-          "MPNSeries": "S6-GR1P",
-          "MPN": "S6-GR1P3K",
-          "RPN": "S6-GR1P3K",
-          "Manufacturer": "Solis",
-          "Length": 310,
-          "Width": 543,
-          "Height": 160,
-          "Weight": 11.2,
-          "MaxPVPower": 4500,
-          "MaxInputVoltage": 600,
-          "RatedInputVoltage": 330,
-          "MPPTStartupVoltage": 120,
-          "MPPTMaxVoltage": 520,
-          "MaxInputCurrentPerMPPT": 14,
-          "MaxShortCircuitCurrentPerMPPT": 22,
-          "MPPTCount": 2,
-          "InputsPerMPPT": 2,
-          "NominalACPower": 3000,
-          "MaxACPower": 3300,
-          "NominalACVoltage": 230,
-          "MaxOutputCurrent": 15.7,
-          "Fase": 1,
-          "InverterType": "String",
-          "EUEfficiency": 96.6,
-          "bAFCI": true,
-          "IngressProtection": 66,
-          "InverterCost" : 1000.0,
-          "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/2308/Datasheet_S6-GR1P%282%2C5-6%29K_NED_V2_a61e1cd5-5e73-43dd-8935-cc9364143b37.pdf",
-          "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/4824/responsive-images/0009623_solis-s6-36k-single-phase-2-mppt-dc___media_library_original_900_900.jpeg",
-          "Tags": ["Unlit.Category.Interior.Sofas.Sofa"],
-          "PanelsPerInverter": 1,
-          "MinOptimizersRequired": 0,
-          "MaxOptimizersPerString": 0,
-          "MaxStringsSupported": 0,
-          "bBatteryReady": false,
-          "MaxBatteryPower": 0,
-          "MaxBatteryCapacity": 0
-        },
-        {
-          "ID": "B8F7E29A4D52420BA54C0C5F38E41C76",
-          "bDeprecated": false,
-          "MPNSeries": "S6-GR1P",
-          "MPN": "S6-GR1P3.6K",
-          "RPN": "S6-GR1P3.6K",
-          "Manufacturer": "Solis",
-          "Length": 310,
-          "Width": 543,
-          "Height": 160,
-          "Weight": 11.2,
-          "MaxPVPower": 5400,
-          "MaxInputVoltage": 600,
-          "RatedInputVoltage": 330,
-          "MPPTStartupVoltage": 120,
-          "MPPTMaxVoltage": 520,
-          "MaxInputCurrentPerMPPT": 14,
-          "MaxShortCircuitCurrentPerMPPT": 22,
-          "MPPTCount": 2,
-          "InputsPerMPPT": 2,
-          "NominalACPower": 3600,
-          "MaxACPower": 4000,
-          "NominalACVoltage": 230,
-          "MaxOutputCurrent": 16.0,
-          "Fase": 1,
-          "InverterType": "String",
-          "EUEfficiency": 96.6,
-          "bAFCI": true,
-          "IngressProtection": 66,
-          "InverterCost" : 1000.0,
-          "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/2308/Datasheet_S6-GR1P%282%2C5-6%29K_NED_V2_a61e1cd5-5e73-43dd-8935-cc9364143b37.pdf",
-          "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/4824/responsive-images/0009623_solis-s6-36k-single-phase-2-mppt-dc___media_library_original_900_900.jpeg",
-          "Tags": ["Unlit.Category.Interior.Sofas.Sofa"],
-          "PanelsPerInverter": 1,
-          "MinOptimizersRequired": 0,
-          "MaxOptimizersPerString": 0,
-          "MaxStringsSupported": 0,
-          "bBatteryReady": false,
-          "MaxBatteryPower": 0,
-          "MaxBatteryCapacity": 0
-        },
-        {
-          "ID": "CB1A6D0F8E5448C8A9A04D41E9C5B872",
-          "bDeprecated": false,
-          "MPNSeries": "S6-GR1P",
-          "MPN": "S6-GR1P4K",
-          "RPN": "S6-GR1P4K",
-          "Manufacturer": "Solis",
-          "Length": 310,
-          "Width": 543,
-          "Height": 160,
-          "Weight": 11.2,
-          "MaxPVPower": 6000,
-          "MaxInputVoltage": 600,
-          "RatedInputVoltage": 330,
-          "MPPTStartupVoltage": 120,
-          "MPPTMaxVoltage": 520,
-          "MaxInputCurrentPerMPPT": 14,
-          "MaxShortCircuitCurrentPerMPPT": 22,
-          "MPPTCount": 2,
-          "InputsPerMPPT": 2,
-          "NominalACPower": 4000,
-          "MaxACPower": 4400,
-          "NominalACVoltage": 230,
-          "MaxOutputCurrent": 18.2,
-          "Fase": 1,
-          "InverterType": "String",
-          "EUEfficiency": 97.1,
-          "bAFCI": true,
-          "IngressProtection": 66,
-          "InverterCost" : 1000.0,
-          "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/2308/Datasheet_S6-GR1P%282%2C5-6%29K_NED_V2_a61e1cd5-5e73-43dd-8935-cc9364143b37.pdf",
-          "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/4824/responsive-images/0009623_solis-s6-36k-single-phase-2-mppt-dc___media_library_original_900_900.jpeg",
-          "Tags": ["Unlit.Category.Interior.Sofas.Sofa"],
-          "PanelsPerInverter": 1,
-          "MinOptimizersRequired": 0,
-          "MaxOptimizersPerString": 0,
-          "MaxStringsSupported": 0,
-          "bBatteryReady": false,
-          "MaxBatteryPower": 0,
-          "MaxBatteryCapacity": 0
-        },
-        {
-          "ID": "5DF27438A36C4C3E94A42815FB7230E1",
-          "bDeprecated": false,
-          "MPNSeries": "S6-GR1P",
-          "MPN": "S6-GR1P4.6K",
-          "RPN": "S6-GR1P4.6K",
-          "Manufacturer": "Solis",
-          "Length": 310,
-          "Width": 543,
-          "Height": 160,
-          "Weight": 12.0,
-          "MaxPVPower": 6900,
-          "MaxInputVoltage": 600,
-          "RatedInputVoltage": 330,
-          "MPPTStartupVoltage": 120,
-          "MPPTMaxVoltage": 520,
-          "MaxInputCurrentPerMPPT": 14,
-          "MaxShortCircuitCurrentPerMPPT": 22,
-          "MPPTCount": 2,
-          "InputsPerMPPT": 2,
-          "NominalACPower": 4600,
-          "MaxACPower": 5000,
-          "NominalACVoltage": 230,
-          "MaxOutputCurrent": 20.9,
-          "Fase": 1,
-          "InverterType": "String",
-          "EUEfficiency": 97.1,
-          "bAFCI": true,
-          "IngressProtection": 66,
-          "InverterCost" : 1000.0,
-          "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/2308/Datasheet_S6-GR1P%282%2C5-6%29K_NED_V2_a61e1cd5-5e73-43dd-8935-cc9364143b37.pdf",
-          "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/4824/responsive-images/0009623_solis-s6-36k-single-phase-2-mppt-dc___media_library_original_900_900.jpeg",
-          "Tags": ["Unlit.Category.Interior.Sofas.Sofa"],
-          "PanelsPerInverter": 1,
-          "MinOptimizersRequired": 0,
-          "MaxOptimizersPerString": 0,
-          "MaxStringsSupported": 0,
-          "bBatteryReady": false,
-          "MaxBatteryPower": 0,
-          "MaxBatteryCapacity": 0
-        },
-        {
-          "ID": "D9A8B6E2455F47F9A9AE33B0CFE4586D",
-          "bDeprecated": false,
-          "MPNSeries": "S6-GR1P",
-          "MPN": "S6-GR1P5K",
-          "RPN": "S6-GR1P5K",
-          "Manufacturer": "Solis",
-          "Length": 310,
-          "Width": 543,
-          "Height": 160,
-          "Weight": 12.0,
-          "MaxPVPower": 7500,
-          "MaxInputVoltage": 600,
-          "RatedInputVoltage": 330,
-          "MPPTStartupVoltage": 120,
-          "MPPTMaxVoltage": 520,
-          "MaxInputCurrentPerMPPT": 14,
-          "MaxShortCircuitCurrentPerMPPT": 22,
-          "MPPTCount": 2,
-          "InputsPerMPPT": 2,
-          "NominalACPower": 5000,
-          "MaxACPower": 5000,
-          "NominalACVoltage": 230,
-          "MaxOutputCurrent": 22.7,
-          "Fase": 1,
-          "InverterType": "String",
-          "EUEfficiency": 97.1,
-          "bAFCI": true,
-          "IngressProtection": 66,
-          "InverterCost" : 1000.0,
-          "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/2308/Datasheet_S6-GR1P%282%2C5-6%29K_NED_V2_a61e1cd5-5e73-43dd-8935-cc9364143b37.pdf",
-          "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/4824/responsive-images/0009623_solis-s6-36k-single-phase-2-mppt-dc___media_library_original_900_900.jpeg",
-          "Tags": ["Unlit.Category.Interior.Sofas.Sofa"],
-          "PanelsPerInverter": 1,
-          "MinOptimizersRequired": 0,
-          "MaxOptimizersPerString": 0,
-          "MaxStringsSupported": 0,
-          "bBatteryReady": false,
-          "MaxBatteryPower": 0,
-          "MaxBatteryCapacity": 0
-        },
-        {
-          "ID": "A64FE9B15C9D4C41B05C1DBAC28D9167",
-          "bDeprecated": false,
-          "MPNSeries": "S6-GR1P",
-          "MPN": "S6-GR1P6K",
-          "RPN": "S6-GR1P6K",
-          "Manufacturer": "Solis",
-          "Length": 310,
-          "Width": 543,
-          "Height": 160,
-          "Weight": 12.0,
-          "MaxPVPower": 9000,
-          "MaxInputVoltage": 600,
-          "RatedInputVoltage": 330,
-          "MPPTStartupVoltage": 120,
-          "MPPTMaxVoltage": 520,
-          "MaxInputCurrentPerMPPT": 14,
-          "MaxShortCircuitCurrentPerMPPT": 22,
-          "MPPTCount": 2,
-          "InputsPerMPPT": 2,
-          "NominalACPower": 6000,
-          "MaxACPower": 6000,
-          "NominalACVoltage": 230,
-          "MaxOutputCurrent": 27.3,
-          "Fase": 1,
-          "InverterType": "String",
-          "EUEfficiency": 97.1,
-          "bAFCI": true,
-          "IngressProtection": 66,
-          "InverterCost" : 1000.0,
-          "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/2308/Datasheet_S6-GR1P%282%2C5-6%29K_NED_V2_a61e1cd5-5e73-43dd-8935-cc9364143b37.pdf",
-          "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/4824/responsive-images/0009623_solis-s6-36k-single-phase-2-mppt-dc___media_library_original_900_900.jpeg",
-          "Tags": ["Unlit.Category.Interior.Sofas.Sofa"],
-          "PanelsPerInverter": 1,
-          "MinOptimizersRequired": 0,
-          "MaxOptimizersPerString": 0,
-          "MaxStringsSupported": 0,
-          "bBatteryReady": false,
-          "MaxBatteryPower": 0,
-          "MaxBatteryCapacity": 0
-        }
+    "Inverters": [
+      {
+        "ID": "F41B7E0D9C1245A3B8F60D1C47A9E832",
+        "bDeprecated": false,
+        "MPNSeries": "S6-GR1P",
+        "MPN": "S6-GR1P2.5K",
+        "RPN": "S6-GR1P2.5K",
+        "Manufacturer": "Solis",
+        "Length": 310,
+        "Width": 543,
+        "Height": 160,
+        "Weight": 11.0,
+        "MaxPVPower": 3750,
+        "MaxInputVoltage": 550,
+        "RatedInputVoltage": 250,
+        "MPPTStartupVoltage": 60,
+        "MPPTMaxVoltage": 450,
+        "MaxInputCurrentPerMPPT": 14,
+        "MaxShortCircuitCurrentPerMPPT": 22,
+        "MPPTCount": 2,
+        "InputsPerMPPT": 2,
+        "NominalACPower": 2500,
+        "MaxACPower": 2800,
+        "NominalACVoltage": 230,
+        "MaxOutputCurrent": 13.3,
+        "Fase": 1,
+        "InverterType": "String",
+        "EUEfficiency": 96.5,
+        "bAFCI": true,
+        "IngressProtection": 66,
+        "InverterCost": 1000.0,
+        "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/2308/Datasheet_S6-GR1P%282%2C5-6%29K_NED_V2_a61e1cd5-5e73-43dd-8935-cc9364143b37.pdf",
+        "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/4824/responsive-images/0009623_solis-s6-36k-single-phase-2-mppt-dc___media_library_original_900_900.jpeg",
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ],
+        "PanelsPerInverter": 1,
+        "MinOptimizersRequired": 0,
+        "MaxOptimizersPerString": 0,
+        "MaxStringsSupported": 0,
+        "bBatteryReady": false,
+        "MaxBatteryPower": 0,
+        "MaxBatteryCapacity": 0
+      },
+      {
+        "ID": "6E0B2143D58E4F55A87D37B2198A56F2",
+        "bDeprecated": false,
+        "MPNSeries": "S6-GR1P",
+        "MPN": "S6-GR1P3K",
+        "RPN": "S6-GR1P3K",
+        "Manufacturer": "Solis",
+        "Length": 310,
+        "Width": 543,
+        "Height": 160,
+        "Weight": 11.2,
+        "MaxPVPower": 4500,
+        "MaxInputVoltage": 600,
+        "RatedInputVoltage": 330,
+        "MPPTStartupVoltage": 120,
+        "MPPTMaxVoltage": 520,
+        "MaxInputCurrentPerMPPT": 14,
+        "MaxShortCircuitCurrentPerMPPT": 22,
+        "MPPTCount": 2,
+        "InputsPerMPPT": 2,
+        "NominalACPower": 3000,
+        "MaxACPower": 3300,
+        "NominalACVoltage": 230,
+        "MaxOutputCurrent": 15.7,
+        "Fase": 1,
+        "InverterType": "String",
+        "EUEfficiency": 96.6,
+        "bAFCI": true,
+        "IngressProtection": 66,
+        "InverterCost": 1000.0,
+        "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/2308/Datasheet_S6-GR1P%282%2C5-6%29K_NED_V2_a61e1cd5-5e73-43dd-8935-cc9364143b37.pdf",
+        "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/4824/responsive-images/0009623_solis-s6-36k-single-phase-2-mppt-dc___media_library_original_900_900.jpeg",
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ],
+        "PanelsPerInverter": 1,
+        "MinOptimizersRequired": 0,
+        "MaxOptimizersPerString": 0,
+        "MaxStringsSupported": 0,
+        "bBatteryReady": false,
+        "MaxBatteryPower": 0,
+        "MaxBatteryCapacity": 0
+      },
+      {
+        "ID": "B8F7E29A4D52420BA54C0C5F38E41C76",
+        "bDeprecated": false,
+        "MPNSeries": "S6-GR1P",
+        "MPN": "S6-GR1P3.6K",
+        "RPN": "S6-GR1P3.6K",
+        "Manufacturer": "Solis",
+        "Length": 310,
+        "Width": 543,
+        "Height": 160,
+        "Weight": 11.2,
+        "MaxPVPower": 5400,
+        "MaxInputVoltage": 600,
+        "RatedInputVoltage": 330,
+        "MPPTStartupVoltage": 120,
+        "MPPTMaxVoltage": 520,
+        "MaxInputCurrentPerMPPT": 14,
+        "MaxShortCircuitCurrentPerMPPT": 22,
+        "MPPTCount": 2,
+        "InputsPerMPPT": 2,
+        "NominalACPower": 3600,
+        "MaxACPower": 4000,
+        "NominalACVoltage": 230,
+        "MaxOutputCurrent": 16.0,
+        "Fase": 1,
+        "InverterType": "String",
+        "EUEfficiency": 96.6,
+        "bAFCI": true,
+        "IngressProtection": 66,
+        "InverterCost": 1000.0,
+        "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/2308/Datasheet_S6-GR1P%282%2C5-6%29K_NED_V2_a61e1cd5-5e73-43dd-8935-cc9364143b37.pdf",
+        "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/4824/responsive-images/0009623_solis-s6-36k-single-phase-2-mppt-dc___media_library_original_900_900.jpeg",
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ],
+        "PanelsPerInverter": 1,
+        "MinOptimizersRequired": 0,
+        "MaxOptimizersPerString": 0,
+        "MaxStringsSupported": 0,
+        "bBatteryReady": false,
+        "MaxBatteryPower": 0,
+        "MaxBatteryCapacity": 0
+      },
+      {
+        "ID": "CB1A6D0F8E5448C8A9A04D41E9C5B872",
+        "bDeprecated": false,
+        "MPNSeries": "S6-GR1P",
+        "MPN": "S6-GR1P4K",
+        "RPN": "S6-GR1P4K",
+        "Manufacturer": "Solis",
+        "Length": 310,
+        "Width": 543,
+        "Height": 160,
+        "Weight": 11.2,
+        "MaxPVPower": 6000,
+        "MaxInputVoltage": 600,
+        "RatedInputVoltage": 330,
+        "MPPTStartupVoltage": 120,
+        "MPPTMaxVoltage": 520,
+        "MaxInputCurrentPerMPPT": 14,
+        "MaxShortCircuitCurrentPerMPPT": 22,
+        "MPPTCount": 2,
+        "InputsPerMPPT": 2,
+        "NominalACPower": 4000,
+        "MaxACPower": 4400,
+        "NominalACVoltage": 230,
+        "MaxOutputCurrent": 18.2,
+        "Fase": 1,
+        "InverterType": "String",
+        "EUEfficiency": 97.1,
+        "bAFCI": true,
+        "IngressProtection": 66,
+        "InverterCost": 1000.0,
+        "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/2308/Datasheet_S6-GR1P%282%2C5-6%29K_NED_V2_a61e1cd5-5e73-43dd-8935-cc9364143b37.pdf",
+        "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/4824/responsive-images/0009623_solis-s6-36k-single-phase-2-mppt-dc___media_library_original_900_900.jpeg",
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ],
+        "PanelsPerInverter": 1,
+        "MinOptimizersRequired": 0,
+        "MaxOptimizersPerString": 0,
+        "MaxStringsSupported": 0,
+        "bBatteryReady": false,
+        "MaxBatteryPower": 0,
+        "MaxBatteryCapacity": 0
+      },
+      {
+        "ID": "5DF27438A36C4C3E94A42815FB7230E1",
+        "bDeprecated": false,
+        "MPNSeries": "S6-GR1P",
+        "MPN": "S6-GR1P4.6K",
+        "RPN": "S6-GR1P4.6K",
+        "Manufacturer": "Solis",
+        "Length": 310,
+        "Width": 543,
+        "Height": 160,
+        "Weight": 12.0,
+        "MaxPVPower": 6900,
+        "MaxInputVoltage": 600,
+        "RatedInputVoltage": 330,
+        "MPPTStartupVoltage": 120,
+        "MPPTMaxVoltage": 520,
+        "MaxInputCurrentPerMPPT": 14,
+        "MaxShortCircuitCurrentPerMPPT": 22,
+        "MPPTCount": 2,
+        "InputsPerMPPT": 2,
+        "NominalACPower": 4600,
+        "MaxACPower": 5000,
+        "NominalACVoltage": 230,
+        "MaxOutputCurrent": 20.9,
+        "Fase": 1,
+        "InverterType": "String",
+        "EUEfficiency": 97.1,
+        "bAFCI": true,
+        "IngressProtection": 66,
+        "InverterCost": 1000.0,
+        "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/2308/Datasheet_S6-GR1P%282%2C5-6%29K_NED_V2_a61e1cd5-5e73-43dd-8935-cc9364143b37.pdf",
+        "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/4824/responsive-images/0009623_solis-s6-36k-single-phase-2-mppt-dc___media_library_original_900_900.jpeg",
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ],
+        "PanelsPerInverter": 1,
+        "MinOptimizersRequired": 0,
+        "MaxOptimizersPerString": 0,
+        "MaxStringsSupported": 0,
+        "bBatteryReady": false,
+        "MaxBatteryPower": 0,
+        "MaxBatteryCapacity": 0
+      },
+      {
+        "ID": "D9A8B6E2455F47F9A9AE33B0CFE4586D",
+        "bDeprecated": false,
+        "MPNSeries": "S6-GR1P",
+        "MPN": "S6-GR1P5K",
+        "RPN": "S6-GR1P5K",
+        "Manufacturer": "Solis",
+        "Length": 310,
+        "Width": 543,
+        "Height": 160,
+        "Weight": 12.0,
+        "MaxPVPower": 7500,
+        "MaxInputVoltage": 600,
+        "RatedInputVoltage": 330,
+        "MPPTStartupVoltage": 120,
+        "MPPTMaxVoltage": 520,
+        "MaxInputCurrentPerMPPT": 14,
+        "MaxShortCircuitCurrentPerMPPT": 22,
+        "MPPTCount": 2,
+        "InputsPerMPPT": 2,
+        "NominalACPower": 5000,
+        "MaxACPower": 5000,
+        "NominalACVoltage": 230,
+        "MaxOutputCurrent": 22.7,
+        "Fase": 1,
+        "InverterType": "String",
+        "EUEfficiency": 97.1,
+        "bAFCI": true,
+        "IngressProtection": 66,
+        "InverterCost": 1000.0,
+        "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/2308/Datasheet_S6-GR1P%282%2C5-6%29K_NED_V2_a61e1cd5-5e73-43dd-8935-cc9364143b37.pdf",
+        "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/4824/responsive-images/0009623_solis-s6-36k-single-phase-2-mppt-dc___media_library_original_900_900.jpeg",
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ],
+        "PanelsPerInverter": 1,
+        "MinOptimizersRequired": 0,
+        "MaxOptimizersPerString": 0,
+        "MaxStringsSupported": 0,
+        "bBatteryReady": false,
+        "MaxBatteryPower": 0,
+        "MaxBatteryCapacity": 0
+      },
+      {
+        "ID": "A64FE9B15C9D4C41B05C1DBAC28D9167",
+        "bDeprecated": false,
+        "MPNSeries": "S6-GR1P",
+        "MPN": "S6-GR1P6K",
+        "RPN": "S6-GR1P6K",
+        "Manufacturer": "Solis",
+        "Length": 310,
+        "Width": 543,
+        "Height": 160,
+        "Weight": 12.0,
+        "MaxPVPower": 9000,
+        "MaxInputVoltage": 600,
+        "RatedInputVoltage": 330,
+        "MPPTStartupVoltage": 120,
+        "MPPTMaxVoltage": 520,
+        "MaxInputCurrentPerMPPT": 14,
+        "MaxShortCircuitCurrentPerMPPT": 22,
+        "MPPTCount": 2,
+        "InputsPerMPPT": 2,
+        "NominalACPower": 6000,
+        "MaxACPower": 6000,
+        "NominalACVoltage": 230,
+        "MaxOutputCurrent": 27.3,
+        "Fase": 1,
+        "InverterType": "String",
+        "EUEfficiency": 97.1,
+        "bAFCI": true,
+        "IngressProtection": 66,
+        "InverterCost": 1000.0,
+        "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/2308/Datasheet_S6-GR1P%282%2C5-6%29K_NED_V2_a61e1cd5-5e73-43dd-8935-cc9364143b37.pdf",
+        "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/product/4824/responsive-images/0009623_solis-s6-36k-single-phase-2-mppt-dc___media_library_original_900_900.jpeg",
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ],
+        "PanelsPerInverter": 1,
+        "MinOptimizersRequired": 0,
+        "MaxOptimizersPerString": 0,
+        "MaxStringsSupported": 0,
+        "bBatteryReady": false,
+        "MaxBatteryPower": 0,
+        "MaxBatteryCapacity": 0
+      },
+      {
+        "ID": "A1C7F94B4E8D4233B5E17D92F4AC0C71",
+        "bDeprecated": false,
+        "MPNSeries": "SUN2000-LB0",
+        "MPN": "SUN2000-3K-LB0",
+        "RPN": "SUN2000-3K-LB0",
+        "Manufacturer": "Huawei",
+        "Length": 425,
+        "Width": 376.5,
+        "Height": 150,
+        "Weight": 15.0,
+        "MaxPVPower": 4500,
+        "MaxInputVoltage": 600,
+        "RatedInputVoltage": 360,
+        "MPPTStartupVoltage": 50,
+        "MPPTMaxVoltage": 560,
+        "MaxInputCurrentPerMPPT": 16,
+        "MaxShortCircuitCurrentPerMPPT": 20,
+        "MPPTCount": 2,
+        "InputsPerMPPT": 1,
+        "NominalACPower": 3000,
+        "MaxACPower": 3300,
+        "NominalACVoltage": 230,
+        "MaxOutputCurrent": 15.0,
+        "Fase": 1,
+        "InverterType": "Hybrid",
+        "EUEfficiency": 96.6,
+        "bAFCI": true,
+        "IngressProtection": 66,
+        "InverterCost": 1200.0,
+        "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/productserie/7147/Datasheet-Huawei-SUN2000-3-6k-LB0.pdf",
+        "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/productserie/7145/responsive-images/LB0---1___media_library_original_865_866.jpg",
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ],
+        "PanelsPerInverter": 1,
+        "MinOptimizersRequired": 0,
+        "MaxOptimizersPerString": 0,
+        "MaxStringsSupported": 0,
+        "bBatteryReady": true,
+        "MaxBatteryPower": 3300,
+        "MaxBatteryCapacity": 15
+      },
+      {
+        "ID": "E9B24DA27E544E7BA1F823D955AD7B93",
+        "bDeprecated": false,
+        "MPNSeries": "SUN2000-LB0",
+        "MPN": "SUN2000-3.68K-LB0",
+        "RPN": "SUN2000-3.68K-LB0",
+        "Manufacturer": "Huawei",
+        "Length": 425,
+        "Width": 376.5,
+        "Height": 150,
+        "Weight": 15.0,
+        "MaxPVPower": 5520,
+        "MaxInputVoltage": 600,
+        "RatedInputVoltage": 360,
+        "MPPTStartupVoltage": 50,
+        "MPPTMaxVoltage": 560,
+        "MaxInputCurrentPerMPPT": 16,
+        "MaxShortCircuitCurrentPerMPPT": 20,
+        "MPPTCount": 2,
+        "InputsPerMPPT": 1,
+        "NominalACPower": 3680,
+        "MaxACPower": 3680,
+        "NominalACVoltage": 230,
+        "MaxOutputCurrent": 16.0,
+        "Fase": 1,
+        "InverterType": "Hybrid",
+        "EUEfficiency": 96.8,
+        "bAFCI": true,
+        "IngressProtection": 66,
+        "InverterCost": 1250.0,
+        "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/productserie/7147/Datasheet-Huawei-SUN2000-3-6k-LB0.pdf",
+        "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/productserie/7145/responsive-images/LB0---1___media_library_original_865_866.jpg",
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ],
+        "PanelsPerInverter": 1,
+        "MinOptimizersRequired": 0,
+        "MaxOptimizersPerString": 0,
+        "MaxStringsSupported": 0,
+        "bBatteryReady": true,
+        "MaxBatteryPower": 3680,
+        "MaxBatteryCapacity": 15
+      },
+      {
+        "ID": "5C0A6B4E1F9347B2A9F4C7E8D3A29F16",
+        "bDeprecated": false,
+        "MPNSeries": "SUN2000-LB0",
+        "MPN": "SUN2000-4K-LB0",
+        "RPN": "SUN2000-4K-LB0",
+        "Manufacturer": "Huawei",
+        "Length": 425,
+        "Width": 376.5,
+        "Height": 150,
+        "Weight": 15.0,
+        "MaxPVPower": 6000,
+        "MaxInputVoltage": 600,
+        "RatedInputVoltage": 360,
+        "MPPTStartupVoltage": 50,
+        "MPPTMaxVoltage": 560,
+        "MaxInputCurrentPerMPPT": 16,
+        "MaxShortCircuitCurrentPerMPPT": 20,
+        "MPPTCount": 2,
+        "InputsPerMPPT": 1,
+        "NominalACPower": 4000,
+        "MaxACPower": 4400,
+        "NominalACVoltage": 230,
+        "MaxOutputCurrent": 20.0,
+        "Fase": 1,
+        "InverterType": "Hybrid",
+        "EUEfficiency": 96.8,
+        "bAFCI": true,
+        "IngressProtection": 66,
+        "InverterCost": 1350.0,
+        "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/productserie/7147/Datasheet-Huawei-SUN2000-3-6k-LB0.pdf",
+        "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/productserie/7145/responsive-images/LB0---1___media_library_original_865_866.jpg",
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ],
+        "PanelsPerInverter": 1,
+        "MinOptimizersRequired": 0,
+        "MaxOptimizersPerString": 0,
+        "MaxStringsSupported": 0,
+        "bBatteryReady": true,
+        "MaxBatteryPower": 4400,
+        "MaxBatteryCapacity": 15
+      },
+      {
+        "ID": "3B7E2C1F5D9849DDBEA8C7B36F4A12E7",
+        "bDeprecated": false,
+        "MPNSeries": "SUN2000-LB0",
+        "MPN": "SUN2000-4.6K-LB0",
+        "RPN": "SUN2000-4.6K-LB0",
+        "Manufacturer": "Huawei",
+        "Length": 425,
+        "Width": 376.5,
+        "Height": 150,
+        "Weight": 15.0,
+        "MaxPVPower": 6900,
+        "MaxInputVoltage": 600,
+        "RatedInputVoltage": 360,
+        "MPPTStartupVoltage": 50,
+        "MPPTMaxVoltage": 560,
+        "MaxInputCurrentPerMPPT": 16,
+        "MaxShortCircuitCurrentPerMPPT": 20,
+        "MPPTCount": 2,
+        "InputsPerMPPT": 1,
+        "NominalACPower": 4600,
+        "MaxACPower": 5000,
+        "NominalACVoltage": 230,
+        "MaxOutputCurrent": 23.0,
+        "Fase": 1,
+        "InverterType": "Hybrid",
+        "EUEfficiency": 97.0,
+        "bAFCI": true,
+        "IngressProtection": 66,
+        "InverterCost": 1450.0,
+        "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/productserie/7147/Datasheet-Huawei-SUN2000-3-6k-LB0.pdf",
+        "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/productserie/7145/responsive-images/LB0---1___media_library_original_865_866.jpg",
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ],
+        "PanelsPerInverter": 1,
+        "MinOptimizersRequired": 0,
+        "MaxOptimizersPerString": 0,
+        "MaxStringsSupported": 0,
+        "bBatteryReady": true,
+        "MaxBatteryPower": 4600,
+        "MaxBatteryCapacity": 15
+      },
+      {
+        "ID": "9C5A8E21D7B5480E93F6C4A7D5E821BF",
+        "bDeprecated": false,
+        "MPNSeries": "SUN2000-LB0",
+        "MPN": "SUN2000-5K-LB0",
+        "RPN": "SUN2000-5K-LB0",
+        "Manufacturer": "Huawei",
+        "Length": 425,
+        "Width": 376.5,
+        "Height": 150,
+        "Weight": 15.0,
+        "MaxPVPower": 7500,
+        "MaxInputVoltage": 600,
+        "RatedInputVoltage": 360,
+        "MPPTStartupVoltage": 50,
+        "MPPTMaxVoltage": 560,
+        "MaxInputCurrentPerMPPT": 16,
+        "MaxShortCircuitCurrentPerMPPT": 20,
+        "MPPTCount": 2,
+        "InputsPerMPPT": 1,
+        "NominalACPower": 5000,
+        "MaxACPower": 5500,
+        "NominalACVoltage": 230,
+        "MaxOutputCurrent": 25.0,
+        "Fase": 1,
+        "InverterType": "Hybrid",
+        "EUEfficiency": 97.1,
+        "bAFCI": true,
+        "IngressProtection": 66,
+        "InverterCost": 1550.0,
+        "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/productserie/7147/Datasheet-Huawei-SUN2000-3-6k-LB0.pdf",
+        "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/productserie/7145/responsive-images/LB0---1___media_library_original_865_866.jpg",
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ],
+        "PanelsPerInverter": 1,
+        "MinOptimizersRequired": 0,
+        "MaxOptimizersPerString": 0,
+        "MaxStringsSupported": 0,
+        "bBatteryReady": true,
+        "MaxBatteryPower": 5500,
+        "MaxBatteryCapacity": 15
+      },
+      {
+        "ID": "F1E8A9D54B6C4E50A3B287E1C49D3F62",
+        "bDeprecated": false,
+        "MPNSeries": "SUN2000-LB0",
+        "MPN": "SUN2000-6K-LB0",
+        "RPN": "SUN2000-6K-LB0",
+        "Manufacturer": "Huawei",
+        "Length": 425,
+        "Width": 376.5,
+        "Height": 150,
+        "Weight": 15.0,
+        "MaxPVPower": 9000,
+        "MaxInputVoltage": 600,
+        "RatedInputVoltage": 360,
+        "MPPTStartupVoltage": 50,
+        "MPPTMaxVoltage": 560,
+        "MaxInputCurrentPerMPPT": 16,
+        "MaxShortCircuitCurrentPerMPPT": 20,
+        "MPPTCount": 2,
+        "InputsPerMPPT": 1,
+        "NominalACPower": 6000,
+        "MaxACPower": 6600,
+        "NominalACVoltage": 230,
+        "MaxOutputCurrent": 30.0,
+        "Fase": 1,
+        "InverterType": "Hybrid",
+        "EUEfficiency": 97.2,
+        "bAFCI": true,
+        "IngressProtection": 66,
+        "InverterCost": 1650.0,
+        "DatasheetURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/productserie/7147/Datasheet-Huawei-SUN2000-3-6k-LB0.pdf",
+        "ThumbnailURL": "https://d4o2fvgnpv65m.cloudfront.net/media-library/productserie/7145/responsive-images/LB0---1___media_library_original_865_866.jpg",
+        "Tags": [
+          "Unlit.Category.Interior.Sofas.Sofa"
+        ],
+        "PanelsPerInverter": 1,
+        "MinOptimizersRequired": 0,
+        "MaxOptimizersPerString": 0,
+        "MaxStringsSupported": 0,
+        "bBatteryReady": true,
+        "MaxBatteryPower": 6600,
+        "MaxBatteryCapacity": 15
+      }
     ],
     "Batteries": [],
     "EVChargers": []
   }
 }
-
