@@ -1,0 +1,32 @@
+{
+  "slides": [
+    {
+      "title": "NOW ON SALE!",
+      "description": "Get 20% off Borderlands 4 and 20% back in Epic Rewards!",
+      "imageUrl": "images/carousel/borderlands4.jpg",
+      "buttonText": "Buy Now",
+      "url": "https://store.epicgames.com/borderlands4"
+    },
+    {
+      "title": "HELL RISES AGAIN",
+      "description": "Play Diablo IV – Season of Blood now available!",
+      "imageUrl": "images/carousel/diablo4.jpg",
+      "buttonText": "Play Now",
+      "url": "https://diablo4.blizzard.com/"
+    }
+  ],
+  "news": [
+    {
+      "title": "Update 1.2 Released",
+      "description": "Experience new missions and visual improvements in the latest version.",
+      "imageUrl": "images/news/update1.jpg",
+      "url": "https://game.dev/update-1-2"
+    },
+    {
+      "title": "Halloween Event Live",
+      "description": "Join the spooky season — earn exclusive rewards until Nov 1.",
+      "imageUrl": "images/news/event1.jpg",
+      "url": "https://game.dev/halloween-event"
+    }
+  ]
+}
