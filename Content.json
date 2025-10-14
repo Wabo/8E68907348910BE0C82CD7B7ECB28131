@@ -13,6 +13,13 @@
       "imageUrl": "images/carousel/diablo4.jpg",
       "buttonText": "Play Now",
       "url": "https://diablo4.blizzard.com/"
+    },
+    {
+      "title": "NEW MAPS. NEW WARZONE.",
+      "description": "Season 6 of Call of Duty Warzone is live.",
+      "imageUrl": "images/carousel/cod.jpg",
+      "buttonText": "Learn More",
+      "url": "https://www.callofduty.com/warzone"
     }
   ],
   "news": [
@@ -24,9 +31,21 @@
     },
     {
       "title": "Halloween Event Live",
-      "description": "Join the spooky season — earn exclusive rewards until Nov 1.",
+      "description": "Join the spooky season — earn exclusive rewards and skins until Nov 1.",
       "imageUrl": "images/news/event1.jpg",
       "url": "https://game.dev/halloween-event"
+    },
+    {
+      "title": "Developer Blog",
+      "description": "A deep dive into upcoming features, performance updates, and patch plans.",
+      "imageUrl": "images/news/devblog.jpg",
+      "url": "https://game.dev/devblog"
+    },
+    {
+      "title": "Santa Is Coming",
+      "description": "Join the Christmas season — earn exclusive rewards and skins until Dec 31.",
+      "imageUrl": "images/news/event1.jpg",
+      "url": "https://game.dev/christmas-event"
     }
   ]
 }
