@@ -1,0 +1,16 @@
+[
+  {
+    "priority": 5,
+    "title": "Server Maintenance",
+    "message": "The servers will be offline tonight from 02:00 – 03:00 UTC.",
+    "url": "https://status.mygame.com",
+    "type": "Custom"
+  },
+  {
+    "priority": 15,
+    "title": "Beta Access Event",
+    "message": "Sign up now for early access to our new mode!",
+    "url": "https://game.dev/beta",
+    "type": "Custom"
+  }
+]
