@@ -1,51 +1,101 @@
 {
   "slides": [
     {
-      "title": "NOW ON SALE!",
-      "description": "Get 20% off Borderlands 4 and 20% back in Epic Rewards!",
-      "imageUrl": "images/carousel/borderlands4.jpg",
-      "buttonText": "Buy Now",
-      "url": "https://store.epicgames.com/borderlands4"
+      "title": "Slimme energie begint bij Qilowatt Solutions",
+      "description": "Ontdek de thuisbatterijen, zonnepanelen en zonnestroomboilers van Qilowatt Solutions. Kwaliteit, service en slimme opslag — alles voor jouw duurzame energiehuishouding.",
+      "imageUrl": "images/carousel/qilowatt.jpg",
+      "buttonText": "Bezoek Qilowatt",
+      "url": "https://www.qilowattsolutions.nl/"
     },
     {
-      "title": "HELL RISES AGAIN",
-      "description": "Play Diablo IV – Season of Blood now available!",
-      "imageUrl": "images/carousel/diablo4.jpg",
-      "buttonText": "Play Now",
-      "url": "https://diablo4.blizzard.com/"
+      "title": "Frank Energie — Handel met je eigen batterij",
+      "description": "Met een dynamisch energiecontract van Frank Energie profiteer je van slimme handel op de FCR, aFRR en intraday-markt. Ideaal voor AlphaESS en Sigenergy batterijen.",
+      "imageUrl": "images/carousel/frankenergie.jpg",
+      "buttonText": "Meer informatie",
+      "url": "https://www.frankenergie.nl/"
     },
     {
-      "title": "NEW MAPS. NEW WARZONE.",
-      "description": "Season 6 of Call of Duty Warzone is live.",
-      "imageUrl": "images/carousel/cod.jpg",
-      "buttonText": "Learn More",
-      "url": "https://www.callofduty.com/warzone"
+      "title": "AlphaESS — De slimme thuisbatterij voor elke situatie",
+      "description": "Van 3.8 kWh tot 30 kWh: de AlphaESS Smile G3-serie biedt modulair uitbreidbare opslag voor huishoudens en bedrijven. Volledig compatibel met SolarSim.",
+      "imageUrl": "images/carousel/alphaess.jpg",
+      "buttonText": "Bekijk AlphaESS",
+      "url": "https://www.alphaess.com/"
+    },
+    {
+      "title": "Recordzomer voor zonne-energie in Nederland ☀️",
+      "description": "Zonnestroom goed voor 18 % van alle opgewekte elektriciteit in Q2 2025 — hoogste aandeel ooit gemeten. (Bron: Solar365.nl)",
+      "imageUrl": "images/carousel/solarrecord.jpg",
+      "buttonText": "Lees meer",
+      "url": "https://www.solar365.nl/nieuws/zonnestroom-groeit-naar-groter-aandeel-in-hernieuwbare-elektriciteitsmix-eerste-helft-2025-66ADAFB2.html"
+    },
+    {
+      "title": "Zonnestroomboiler-simulatie nu beschikbaar",
+      "description": "Nieuw in SolarSim: bereken besparing en warmwateropbrengst met de Zonnestroomboiler van Qilowatt Solutions.",
+      "imageUrl": "images/carousel/zonnestroomboiler.jpg",
+      "buttonText": "Probeer nu",
+      "url": "https://www.qilowattsolutions.nl/zonnestroomboiler"
     }
   ],
   "news": [
     {
-      "title": "Update 1.2 Released",
-      "description": "Experience new missions and visual improvements in the latest version.",
-      "imageUrl": "images/news/update1.jpg",
-      "url": "https://game.dev/update-1-2"
+      "title": "RVO: zonne-energie blijft sterk groeien in 2025",
+      "description": "Volgens het laatste RVO-rapport is het totaal geïnstalleerde vermogen in Nederland gestegen naar ruim 29 GWp, met name door kleinschalige residentiële installaties.",
+      "imageUrl": "images/news/rvo2025.jpg",
+      "url": "https://www.rvo.nl/nieuws/zonne-energie-neemt-toe-maar-groeit-minder-hard"
     },
     {
-      "title": "Halloween Event Live",
-      "description": "Join the spooky season — earn exclusive rewards and skins until Nov 1.",
-      "imageUrl": "images/news/event1.jpg",
-      "url": "https://game.dev/halloween-event"
+      "title": "Je thuisbatterij wordt slimmer: handel op nieuwe energiemarkten",
+      "description": "Frank Energie breidt haar handelsplatform uit met toegang tot de FCR-, aFRR- en intraday-markten, waarmee thuisbatterijen meer rendement behalen.",
+      "imageUrl": "images/news/frankenergie.jpg",
+      "url": "https://www.qilowattsolutions.nl/blog/je-thuisbatterij-wordt-slimmer"
     },
     {
-      "title": "Developer Blog",
-      "description": "A deep dive into upcoming features, performance updates, and patch plans.",
-      "imageUrl": "images/news/devblog.jpg",
-      "url": "https://game.dev/devblog"
+      "title": "Een dynamisch energiecontract met een thuisbatterij",
+      "description": "Qilowatt legt uit hoe dynamische contracten werken in combinatie met slimme opslag, en hoe je profiteert van prijsschommelingen.",
+      "imageUrl": "images/news/dynamiccontract.jpg",
+      "url": "https://www.qilowattsolutions.nl/blog/een-dynamisch-energiecontract-met-een-thuisbatterij"
     },
     {
-      "title": "Santa Is Coming",
-      "description": "Join the Christmas season — earn exclusive rewards and skins until Dec 31.",
-      "imageUrl": "images/news/event1.jpg",
-      "url": "https://game.dev/christmas-event"
+      "title": "Salderingsregeling voorlopig behouden tot 2030",
+      "description": "De Eerste Kamer heeft ingestemd met het behoud van de salderingsregeling, waardoor zonnepanelen aantrekkelijk blijven voor huishoudens.",
+      "imageUrl": "images/news/saldering.jpg",
+      "url": "https://www.qilowattsolutions.nl/blog/definitief-besluit-eerste-kamer-salderingsregeling-blijft"
+    },
+    {
+      "title": "Weggegooide zonne-energie verdubbeld — opslag cruciaal",
+      "description": "Door netcongestie en piekproductie wordt meer duurzame energie afgeschakeld. Slimme batterijen kunnen deze verliezen beperken. (Bron: Change.inc)",
+      "imageUrl": "images/news/curtailment.jpg",
+      "url": "https://www.change.inc/energie/weggegooide-wind-en-zonne-energie-groeit-harder-dan-opgewekte-groene-stroom-dringend-meer-opslag-nodig"
+    },
+    {
+      "title": "Zonnestroomboiler: haal meer uit je panelen",
+      "description": "Combineer zonnepanelen met een zonnestroomboiler om overtollige energie om te zetten in warm water — efficiënt en rendabel.",
+      "imageUrl": "images/news/boiler.jpg",
+      "url": "https://www.qilowattsolutions.nl/blog/zonnestroomboiler"
+    },
+    {
+      "title": "Nieuwe update SolarSim 1.5 beschikbaar",
+      "description": "De nieuwste versie bevat verbeterde schaduwdetectie, batterijsimulatie met Frank Energie-integratie en uitgebreidere PVGIS-data.",
+      "imageUrl": "images/news/update15.jpg",
+      "url": "https://solar-sim.app/update-1-5"
+    },
+    {
+      "title": "Nederland produceert recordhoeveelheid zonne-energie in 2025",
+      "description": "Volgens SolarPower Europe produceerde Nederland 10,2 TWh aan zonne-energie in de eerste helft van 2025 — een groei van 14 %.",
+      "imageUrl": "images/news/solarpower.jpg",
+      "url": "https://www.solarpowereurope.org/news"
+    },
+    {
+      "title": "Qilowatt introduceert AlphaESS Smile G3-serie",
+      "description": "Nieuwe generatie thuisbatterijen met 1C-oplaadsnelheid en modulaire uitbreidbaarheid. Ideaal voor huishoudens met dynamische contracten.",
+      "imageUrl": "images/news/alphaess.jpg",
+      "url": "https://www.qilowattsolutions.nl/thuisbatterijen"
+    },
+    {
+      "title": "Evenement: Webinar ‘Slim opslaan met AlphaESS en Sigenergy’",
+      "description": "Leer hoe je optimaal gebruikmaakt van slimme opslagstrategieën. Gratis webinar georganiseerd door Qilowatt Solutions en SolarSim.",
+      "imageUrl": "images/news/webinar.jpg",
+      "url": "https://solar-sim.app/events/alphaess-sigenergy"
     }
   ]
 }
