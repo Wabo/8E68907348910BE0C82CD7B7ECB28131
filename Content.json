@@ -1,28 +1,28 @@
 {
   "slides": [
     {
-      "title": "Currently ⚡ Centraal portaal voor toegang & licenties",
+      "title": "Je startpunt binnen Currently ⚡",
       "description": "Currently is een nieuw platform in opbouw voor solar- en storageprofessionals. Via het dashboard beheer je je account, licenties en basisinstellingen. Functionele modules worden stapsgewijs toegevoegd.",
       "imageUrl": "images/carousel/currently-dashboard.jpg",
       "buttonText": "Open dashboard",
       "url": "https://app.currently3d.com"
     },
     {
-      "title": "Getest in de praktijk 🔧",
+      "title": "Gebouwd op praktijkervaring",
       "description": "Qilowatt Solutions fungeert als launching partner voor Currently. Hun dagelijkse werk met zonnepanelen, omvormers en thuisbatterijen vormt de basis voor realistische aannames en ontwerpkeuzes binnen de software.",
       "imageUrl": "https://cdn.prod.website-files.com/649acb311cf6bc08270d537b/66753ea5bcbd91c575694e3d_Qilowatt-7.webp",
       "buttonText": "Bezoek Qilowatt",
       "url": "https://www.qilowattsolutions.nl/"
     },
     {
-      "title": "Energiecontracten beïnvloeden je ontwerp ⚡",
+      "title": "Van energiecontract naar ontwerpkeuze ⚡",
       "description": "Dynamische energiecontracten, zoals die van Frank Energie, veranderen de rol van batterijen en zelfverbruik. Ontwerpkeuzes worden steeds vaker gestuurd door marktwerking en prijsvolatiliteit.",
       "imageUrl": "images/carousel/frankenergie.jpg",
       "buttonText": "Meer over dynamische energie",
       "url": "https://www.frankenergie.nl/"
     },
     {
-      "title": "Projectinkoop als vervolgstap 🏗️",
+      "title": "Van ontwerp naar inkoop",
       "description": "Na ontwerp en systeemkeuze volgt inkoop. Currently kan professionals doorverwijzen naar groothandels met een breed assortiment aan zonnepanelen, omvormers en opslagsystemen — passend bij het project.",
       "imageUrl": "images/carousel/wholesale-neutral.jpg",
       "buttonText": "Bekijk groothandels",
