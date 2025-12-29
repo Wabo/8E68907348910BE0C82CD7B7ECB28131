@@ -3,7 +3,7 @@
     "priority": 5,
     "title": "Server Maintenance",
     "message": "The servers will be offline tonight from 02:00 – 03:00 UTC.",
-    "url": "/",
+    "url": "https://status.mygame.com",
     "type": "Custom"
   },
   {
