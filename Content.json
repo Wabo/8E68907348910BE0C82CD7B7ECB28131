@@ -38,58 +38,76 @@
   ],
   "news": [
     {
-      "title": "RVO: zonne-energie blijft sterk groeien in 2025",
-      "description": "Volgens het laatste RVO-rapport is het totaal geïnstalleerde vermogen in Nederland gestegen naar ruim 29 GWp, met name door kleinschalige residentiële installaties.",
-      "imageUrl": "images/news/rvo2025.jpg",
-      "url": "https://www.rvo.nl/nieuws/zonne-energie-neemt-toe-maar-groeit-minder-hard"
+      "title": "DNE Research: zonnepanelenverkopen dalen door einde salderingsregeling, batterijen groeien",
+      "description": "DNE Research meldt dat zonnepanelenverkopen in Nederland in 2025 zijn gedaald door het einde van salderen, wat installateurs dwingt om systeemontwerp en businesscases te herzien.",
+      "imageUrl": "https://www.dutchnewenergy.nl/good-dutchnewenergy/_sitefiles/img/dutch-new-energy-research.jpg",
+      "url": "https://tweakers.net/nieuws/241414/zonnepaneelverkopen-in-nederland-kelderen-door-einde-salderingsregeling.html"
     },
     {
-      "title": "Je thuisbatterij wordt slimmer: handel op nieuwe energiemarkten",
-      "description": "Frank Energie breidt haar handelsplatform uit met toegang tot de FCR-, aFRR- en intraday-markten, waarmee thuisbatterijen meer rendement behalen.",
-      "imageUrl": "images/news/frankenergie.jpg",
-      "url": "https://www.qilowattsolutions.nl/blog/je-thuisbatterij-wordt-slimmer-frank-energie-voegt-fcr-en-afrr-toe-aan-de-handelsstrategie"
+      "title": "Nederlandse markt thuisbatterijen groeit +140 % in 2025 (DNE Research)",
+      "description": "Onderzoek toont dat Nederland naar verwachting 89.200 nieuwe thuisbatterijen installeert in 2025, wat wachttijden en krapte in systeemleveringen kan veroorzaken — data die installateurs moeten kennen.",
+      "imageUrl": "images/news/dne_home_batteries.jpg",
+      "url": "https://www.installgroen.nl/kennisbank/marktgroei-thuisbatterijen-2025-waarom-de-vraag-explosief-stijgt"
     },
     {
-      "title": "Een dynamisch energiecontract met een thuisbatterij",
-      "description": "Qilowatt legt uit hoe dynamische contracten werken in combinatie met slimme opslag, en hoe je profiteert van prijsschommelingen.",
-      "imageUrl": "images/news/dynamiccontract.jpg",
-      "url": "https://www.qilowattsolutions.nl/blog/een-dynamisch-energiecontract-met-een-thuisbatterij"
+      "title": "AlphaESS verovert ~29 % marktaandeel Nederlandse residentiële storagemarkt",
+      "description": "Marktdata laat zien dat AlphaESS meer dan een kwart van de Nederlandse residentiële batterijmarkt in handen heeft met 600 % jaar-op-jaar groei — belangrijke indicator voor product keuze en voorraadplanning.",
+      "imageUrl": "images/news/alphaess_share.jpg",
+      "url": "https://www.ess-news.com/2025/09/11/alphaess-strengthens-european-presence-with-28-8-market-share-in-the-netherlands-and-new-benelux-office/"
     },
     {
-      "title": "Weggegooide zonne-energie verdubbeld — opslag cruciaal",
-      "description": "Door netcongestie en piekproductie wordt meer duurzame energie afgeschakeld. Slimme batterijen kunnen deze verliezen beperken. (Bron: Change.inc)",
-      "imageUrl": "images/news/curtailment.jpg",
-      "url": "https://www.change.inc/energie/weggegooide-wind-en-zonne-energie-groeit-harder-dan-opgewekte-groene-stroom-dringend-meer-opslag-nodig"
+      "title": "Explosieve groei batterijopslag in Nederland in 2025: capaciteit +81 %",
+      "description": "Industry-data toont een sterke toename van opslagcapaciteit van 343 MWh naar 620 MWh in één jaar tijd, vooral grootschalige systemen >10 MWh — cruciaal voor congestiemanagement door professionals.",
+      "imageUrl": "images/news/storage_growth.jpg",
+      "url": "https://www.energystoragenl.nl/en/2025/07/21/explosieve-groei-batterijopslag-in-nederland/"
     },
     {
-      "title": "Zonnestroomboiler: haal meer uit je panelen",
-      "description": "Combineer zonnepanelen met een zonnestroomboiler om overtollige energie om te zetten in warm water — efficiënt en rendabel.",
-      "imageUrl": "images/news/boiler.jpg",
-      "url": "https://www.qilowattsolutions.nl/blog/zonnestroomboiler"
+      "title": "Aantal grote batterijprojecten in NL verdubbelt; capaciteit groeit spectaculair",
+      "description": "De Nederlandse batterijmarkt groeit explosief: eind 2025 wordt verwacht dat meer dan 2,1 GWh aan grootschalige batterijopslag klaarstaat, met nieuwe projecten van Engie en Flevo-BESS.",
+      "imageUrl": "images/news/large_batteries_nl.jpg",
+      "url": "https://nltimes.nl/2025/10/08/number-massive-batteries-energy-storing-rising-rapidly-netherlands"
     },
     {
-      "title": "Nieuwe update SolarSim 1.5 beschikbaar",
-      "description": "De nieuwste versie bevat verbeterde schaduwdetectie, batterijsimulatie met Frank Energie-integratie en uitgebreidere PVGIS-data.",
-      "imageUrl": "images/news/update15.jpg",
-      "url": "https://solar-sim.app/update-1-5"
+      "title": "ENLIT 2025: NL een Europese koploper in netflexibiliteit en congestiemanagement",
+      "description": "Nederland positioneert zich met GOPACS als Europees voorbeeld voor congestiemanagement — relevant voor systeemintegratie en toekomstige flexibiliteitsmarkten.",
+      "imageUrl": "images/news/enlit2025.jpg",
+      "url": "https://www.gopacs.eu/en/news/enlit-2025-netherlands-leads-the-way-in-flexibility/"
     },
     {
-      "title": "Nederland produceert recordhoeveelheid zonne-energie in 2025",
-      "description": "Volgens SolarPower Europe produceerde Nederland 10,2 TWh aan zonne-energie in de eerste helft van 2025 — een groei van 14 %.",
-      "imageUrl": "images/news/solarpower.jpg",
-      "url": "https://www.solarpowereurope.org/news"
+      "title": "TNO: rendement en conversie van zonnepanelen stijgt door nieuwe technologieën",
+      "description": "TNO-onderzoek toont dat PV-technologie blijft verbeteren, wat invloed heeft op ontwerpkeuzes, stringverhoudingen en lange-termijnopbrengst.",
+      "imageUrl": "images/news/tno_pv_yield.jpg",
+      "url": "https://www.tno.nl/en/newsroom/insights/2025/08/solar-panel-yield-rises/"
     },
     {
-      "title": "Qilowatt introduceert AlphaESS Smile G3-serie",
-      "description": "Nieuwe generatie thuisbatterijen met 1C-oplaadsnelheid en modulaire uitbreidbaarheid. Ideaal voor huishoudens met dynamische contracten.",
-      "imageUrl": "images/news/alphaess.jpg",
-      "url": "https://www.qilowattsolutions.nl/thuisbatterijen"
+      "title": "Groei zonne-energie stagneert, batterijmarkt explodeert (Trendrapport)",
+      "description": "Trendrapport laat zien dat in 2025 de groei van PV-installaties afvlakt, terwijl batterijcapaciteit met >130 % toeneemt — relevant voor strategische focusverschuiving.",
+      "imageUrl": "images/news/solar_vs_battery_growth.jpg",
+      "url": "https://www.change.inc/transities/groei-van-zonne-energie-stagneert-terwijl-batterijmarkt-explodeert-in-nederland"
     },
     {
-      "title": "Evenement: Webinar ‘Slim opslaan met AlphaESS en Sigenergy’",
-      "description": "Leer hoe je optimaal gebruikmaakt van slimme opslagstrategieën. Gratis webinar georganiseerd door Qilowatt Solutions en SolarSim.",
-      "imageUrl": "images/news/webinar.jpg",
-      "url": "https://solar-sim.app/events/alphaess-sigenergy"
+      "title": "GlobalData: Nederlands PV-modulemarktrapport laat CAGR ~12,8 % zien richting 2033",
+      "description": "Langetermijnprognose van de PV-modulemarkt met technologische verschuivingen naar TOPCon/HJT — relevant voor procurement op schaal.",
+      "imageUrl": "images/news/pv_module_forecast.jpg",
+      "url": "https://www.linkedin.com/pulse/netherlands-solar-pv-module-market-forecast-20252033-xtxbf/"
+    },
+    {
+      "title": "Verschuiving EU-markt: Europese PV-uitrol vertraagt ondanks recordproductie",
+      "description": "Reuters-analyse toont structurele druk op Europese PV-uitrol, met gevolgen voor prijsdruk, concurrentie en marges.",
+      "imageUrl": "images/news/eu_pv_deployment.jpg",
+      "url": "https://www.reuters.com/sustainability/climate-energy/eu-solar-energy-rollout-declines-first-time-decade-subsidies-cut-2025-07-24/"
+    },
+    {
+      "title": "Marktonderzoek Energieopslag 2025: NL dreigt kansen te missen zonder nationale strategie",
+      "description": "Rapport toont dat >15 GWh aan opslagprojecten vertraging oploopt door beleid en netissues — relevant voor investeringsstrategie.",
+      "imageUrl": "images/news/storage_report_2025.jpg",
+      "url": "https://www.energystoragenl.nl/2025/10/08/marktonderzoek-energieopslag-2025-nederland-moet-versnellen-om-kansen-niet-te-missen/"
+    },
+    {
+      "title": "NL balancing challenge: batterijen essentieel voor stabiliteit en blackouts voorkomen",
+      "description": "ABN AMRO-rapport schetst de lange-termijn noodzaak van >7.2 GW batterijcapaciteit om het Nederlandse energiesysteem stabiel te houden.",
+      "imageUrl": "images/news/balancing_challenge.jpg",
+      "url": "https://www.abnamro.com/research/en/our-research/esg-economist-dutch-balancing-challenge-in-the-renewable-era"
     }
   ]
 }
