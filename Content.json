@@ -3,7 +3,7 @@
     {
       "title": "Je startpunt binnen Currently ⚡",
       "description": "Currently is een nieuw platform in opbouw voor solar- en storageprofessionals. Via het dashboard beheer je je account, licenties en basisinstellingen. Functionele modules worden stapsgewijs toegevoegd.",
-      "imageUrl": "images/carousel/currently-dashboard.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Wabo/8E68907348910BE0C82CD7B7ECB28131/refs/heads/main/Images/currently-slide-001.png",
       "buttonText": "Open dashboard",
       "url": "https://app.currently3d.com"
     },
